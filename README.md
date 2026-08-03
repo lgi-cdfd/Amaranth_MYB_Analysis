@@ -1,8 +1,3 @@
-(Copy & Paste directly into GitHub)
-
-Below is the complete text to paste into your repository's `README.md` file:
-
-
 # Comprehensive Genome-Wide Curation, Evolutionary Characterization, and Transcriptional Dynamics of MYB Transcription Factors in *Amaranthus hypochondriacus*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -13,9 +8,13 @@ Below is the complete text to paste into your repository's `README.md` file:
 This repository contains the custom computational pipelines, Python scripts, curated sequence datasets, and differential expression analysis workflows supporting the manuscript:
 
 > **"Genome-wide characterization of MYB transcription factors in *Amaranthus hypochondriacus* uncovers evolutionary conservation and stress-dependent transcriptional regulation"**  
-> *Ramesh Eerapagula, Ajay Kumar Mahato\**  
-> Laboratory of Genome Informatics, BRIC-Centre for DNA Fingerprinting and Diagnostics (CDFD), Hyderabad, Telangana, India.  
-> \*Corresponding Author: `akmahato@cdfd.org.in`
+>  
+> **Ramesh Eerapagula¹**, **Rakesh Singh²**, **Ajay Kumar Mahato¹\***  
+>  
+> ¹ Laboratory of Genome Informatics, BRIC-Centre for DNA Fingerprinting and Diagnostics (CDFD), Hyderabad, Telangana, India.  
+> ² ICAR-National Bureau of Plant Genetic Resources, Pusa Campus, New Delhi, India.  
+>  
+> \* **Corresponding Author:** Ajay Kumar Mahato (`akmahato@cdfd.org.in`)
 
 ---
 
@@ -63,7 +62,9 @@ python3 scripts/02_isoform_selection_and_repeat_counting.py
 ```bash
 # Execute DESeq2 analysis across developmental and stress libraries
 Rscript scripts/05_dge_star_deseq2_analysis.R
+```
 
+---
 
 ## Data Availability
 * **Reference Genome & Baseline Transcriptomes:** NCBI SRA BioProject [PRJNA263128](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA263128)
@@ -74,7 +75,7 @@ Rscript scripts/05_dge_star_deseq2_analysis.R
 
 ## Citation
 If you use the datasets or scripts in this repository, please cite:
-> Eerapagula R, Mahato AK. (2026). Genome-wide characterization of MYB transcription factors in *Amaranthus hypochondriacus* uncovers evolutionary conservation and stress-dependent transcriptional regulation. *BMC Genomics* (In Press).
+> Eerapagula R, Singh R, Mahato AK. (2026). Genome-wide characterization of MYB transcription factors in *Amaranthus hypochondriacus* uncovers evolutionary conservation and stress-dependent transcriptional regulation. *BMC Genomics* (In Press).
 
 ---
 

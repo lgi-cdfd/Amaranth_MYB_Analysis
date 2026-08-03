@@ -1,7 +1,7 @@
 # Comprehensive Genome-Wide Curation, Evolutionary Characterization, and Transcriptional Dynamics of MYB Transcription Factors in *Amaranthus hypochondriacus*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10849201.svg)](https://doi.org/10.5281/zenodo.10849201)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.10849201-blue.svg)](https://doi.org/10.5281/zenodo.10849201)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 
 ## Overview
@@ -69,7 +69,7 @@ Rscript scripts/05_dge_star_deseq2_analysis.R
 ## Data Availability
 * **Reference Genome & Baseline Transcriptomes:** NCBI SRA BioProject [PRJNA263128](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA263128)
 * **Stress RNA-Seq Libraries:** NCBI SRA BioProject [PRJNA65409](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA65409)
-* **Zenodo DOI Archive:** [10.5281/zenodo.10849201](https://doi.org/10.5281/zenodo.10849201)
+* **Zenodo Archive DOI:** [10.5281/zenodo.10849201](https://doi.org/10.5281/zenodo.10849201)
 
 ---
 

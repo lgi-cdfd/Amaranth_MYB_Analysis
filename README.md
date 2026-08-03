@@ -1,7 +1,7 @@
 # Comprehensive Genome-Wide Curation, Evolutionary Characterization, and Transcriptional Dynamics of MYB Transcription Factors in *Amaranthus hypochondriacus*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21770288-blue.svg)](https://doi.org/10.5281/zenodo.21770784)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21770784-blue.svg)](https://doi.org/10.5281/zenodo.21770784)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 
 ## Overview
